@@ -62,7 +62,7 @@
 		"express": "^4.17.1",
 		"express-fileupload": "^1.2.0",
 		"fs-extra": "^9.0.1",
-		"graphql": "^16.6.0",
+		"graphql": "^16.8.1",
 		"graphql-fields-to-relations": "^1.0.5",
 		"graphql-request": "^6.0.0",
 		"history": "^5.1.0",
